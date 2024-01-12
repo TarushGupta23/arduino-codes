@@ -1,5 +1,7 @@
+// lighting up an LED via arduino
 int ledPin = 13;
-String msg = "This is message: ";
+String msg = "This is message: "; // we can create variables like this
+
 void setup() {
   // put your setup code here, to run once:
   pinMode(ledPin, OUTPUT);
