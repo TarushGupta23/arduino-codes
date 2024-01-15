@@ -23,6 +23,7 @@ If you're new to Arduino, here are some essential resources to get started:
 - [Arduino Official Website](https://www.arduino.cc/)
 - [Arduino IDE Download](https://www.arduino.cc/en/software)
 - [Arduino Tutorials](https://www.arduino.cc/en/Tutorial/BuiltInExamples)
+- [Tinkercad](https://www.tinkercad.com)
 
 ## Basic Arduino Concepts
 
