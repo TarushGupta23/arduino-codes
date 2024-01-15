@@ -1,3 +1,4 @@
+![arduino_banner](https://www.excis3.be/images/uploads/About-Us_Innovation-IoT_Arduino_Landing.png)
 # Arduino Learning Repository
 
 This repository serves as a personal knowledge base where I document everything I have learned about Arduino. It includes tips, code snippets, and projects related to Arduino development.
@@ -28,6 +29,7 @@ If you're new to Arduino, here are some essential resources to get started:
 ## Basic Arduino Concepts
 
 #### consider Arduino UNO R3: 
+![uno_r3](https://static.cytron.io/image/cache/catalog/products/ARDUINO-UNO/ARDUINO-UNO%20(b)-800x800.jpg)
  - `vin`: used to give power supply to the board
  - `grd`: used to provide negative terminal to the circuit
  - `+5V`: provides +5 Volts to the components attached

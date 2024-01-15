@@ -14,9 +14,9 @@ void loop() {
     Serial.print(msg);
     Serial.println(i);
   }
-  digitalWrite(ledPin, HIGH);
+  digitalWrite(ledPin, HIGH); // can use 1, true, HIGH to turn on led
   delay(1000);
-  digitalWrite(ledPin, LOW);
+  digitalWrite(ledPin, LOW);  // can use 0, false, LOW to turn off led
   delay(1000);
 
   Serial.println("Hello world");
