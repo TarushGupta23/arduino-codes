@@ -3,16 +3,6 @@
 
 This repository serves as a personal knowledge base where I document everything I have learned about Arduino. It includes tips, code snippets, and projects related to Arduino development.
 
-## Table of Contents
-
-1. [Introduction](#introduction)
-2. [Getting Started](#getting-started)
-3. [Basic Arduino Concepts](#basic-arduino-concepts)
-4. [Projects](#projects)
-5. [Troubleshooting](#troubleshooting)
-6. [Contributing](#contributing)
-7. [License](#license)
-
 ## Introduction
 
 Welcome to my Arduino learning repository! Here, I share my journey in learning and working with Arduino. Whether you're a beginner or an experienced developer, I hope you find something useful.
@@ -32,7 +22,7 @@ If you're new to Arduino, here are some essential resources to get started:
 ![uno_r3](https://static.cytron.io/image/cache/catalog/products/ARDUINO-UNO/ARDUINO-UNO%20(b)-800x800.jpg)
  - `vin`: used to give power supply to the board
  - `grd`: used to provide negative terminal to the circuit
- - `+5V`: provides +5 Volts to the components attached
+ - `+5V`: also refered as _Vcc_, provides +5 Volts to the components attached
  - `+3.3V`: provides +3.3 Volts to the components attached _(usually for bluetooth)_
  - `A0 to A5`: used to read __analog values__ from analog sensors, they can also be used as digital pins
    - `A4` and `A5` can also work as __SDA__ _(serial data)_ __SCA__ _(serial clock)_ which are used in I2C protocol

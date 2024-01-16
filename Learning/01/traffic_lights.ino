@@ -1,5 +1,3 @@
-// -=-=-=-=-=-= sample code to simulate traffic lights =-=-=-=-=-=-
-
 // declaring digital pins to be used
 int red = 13;
 int yellow = 12;
