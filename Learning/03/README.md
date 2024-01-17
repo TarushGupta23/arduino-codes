@@ -17,7 +17,7 @@
 ### devices
 
 #### Potentiometer
-[potentiometer image](https://www.thinkcreatelearn.co.uk/resources/arduino-recipes/read-potentiometer/pot-pins.jpg)
+![potentiometer image](https://www.thinkcreatelearn.co.uk/resources/arduino-recipes/read-potentiometer/pot-pins.jpg)
 - It is basically a variable resistance
 - has 3 pins : terminal 1, wiper terminal, terminal 2
 - terminal 1 and 2 are connected to Vcc _(+5V)_ and GND
