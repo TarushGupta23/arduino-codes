@@ -8,6 +8,7 @@
 - to provide `x` Volts to a component the value `y` needed to be written on pin is given by: 
     - `y = (x * 1023) / Vcc` for analog pins
     - `y = ((x * 255) / Vcc)` for PWM
+- by default they are in INPUT mode
 
 ### functions
 - `analogWrite(pin, value)` : function to write analog value to the given pin
