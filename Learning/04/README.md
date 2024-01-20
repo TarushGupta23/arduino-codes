@@ -20,7 +20,8 @@
 ### devices
 
 #### Servo SG9s
-![SG9s image](https://m.media-amazon.com/images/I/61QV8ocKmPL._AC_UF894,1000_QL80_.jpg)
+<img src="https://m.media-amazon.com/images/I/61QV8ocKmPL._AC_UF894,1000_QL80_.jpg" height="200"/>
+
 - can rotate upto _180 degree_ or _360 degree_
 - [more details](https://docs.arduino.cc/learn/electronics/servo-motors/)
 

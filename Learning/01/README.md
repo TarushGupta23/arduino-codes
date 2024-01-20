@@ -12,7 +12,8 @@
 ### devices
 
 #### LED
-![led image](https://search-static.byjusweb.com/question-images/byjus/ckeditor_assets/pictures/862730/original_17.png)
+<img src="https://search-static.byjusweb.com/question-images/byjus/ckeditor_assets/pictures/862730/original_17.png" height="200" style="background: white;" />
+
 - _Light Emitting Diode_
 - it has 2 terminals : anode and cathode
 

@@ -17,7 +17,8 @@ back is called `echo`. The shorter this time, the closer the object is to the se
 ### devices
 
 #### Ultrasonic Sensor HC-SR04
-![ultrasonic sensor image](https://robocraze.com/cdn/shop/products/2_1_1_f187f465-17f0-4b89-8f93-52f713a9794b.jpg?v=1670580633&width=1445)
+<img src="https://robocraze.com/cdn/shop/products/2_1_1_f187f465-17f0-4b89-8f93-52f713a9794b.jpg?v=1670580633&width=1445" height="200" />
+
 - can measure distances from _2cm_ to _400cm_
 - accuracy : 3mm
 - has four pins : 
@@ -27,11 +28,12 @@ back is called `echo`. The shorter this time, the closer the object is to the se
 - [more details](https://docs.arduino.cc/built-in-examples/sensors/Ping/)
 
 #### RGB led
-![rgb led image](https://www.olelectronics.in/wp-content/uploads/rgb_5mm_led-1.png)
+<img src="https://www.olelectronics.in/wp-content/uploads/rgb_5mm_led-1.png" height="200" />
+
 - used to show color on LED
 - consists of three terminals : red, green & blue. Each wire carries current to one primary color
-![rgb color chart](https://color-register.org/wp-content/uploads/2021/02/RGB.png)
 
+<img src="https://color-register.org/wp-content/uploads/2021/02/RGB.png" height="150" />
 
 ### files
 - *ultrasonic_sensor.ino* : using ultrasonic sensor
